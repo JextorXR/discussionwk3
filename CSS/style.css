@@ -1,0 +1,35 @@
+h1 {font-weight: bold;
+    color: #4d28ef;
+    text-align: center;
+    font-size: 3em;
+}
+
+body {
+    text-align: center;
+    background-color: #00c171;
+}
+
+ul {
+    background-color: bisque;
+}
+
+ol {
+    background-color: #00c3c7;
+}
+
+h2, h3 {
+    text-align: center;
+    font-family: "comic sans ms";
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid purple;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #00c3c7;
+}
+
+img {
+    border-radius: 50px;
+    border: 10px solid black;
+    margin-top: 10px;
+}
